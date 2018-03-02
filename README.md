@@ -1,8 +1,8 @@
 # java_project
-My Java Practic
+My Java Practice
 
 
-This Repo Contains Some Java Games
+This Repo Contains a Java Game
 Please Follow the Instruction Given Below::
 
 1. Place the images to the "src" folder of the java project
